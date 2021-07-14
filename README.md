@@ -13,7 +13,7 @@ Alternatively, [find me on telegram](https://t.me/FlyingKILI)! (Keep all support
 You can also join our support group [here!](https://t.me/NoobieHub)
 
 # Group
-[Join Discuss Group](https://t.me/giveaways_24hrs)
+[Join Discuss Group](https://t.me/NoobieHub)
 
 # Report error
 Report your problem along with your name to [this person](https://t.me/zeus_of_telegramx) or [Kid](https://t.me/kid_of_telegram)
