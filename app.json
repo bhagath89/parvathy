@@ -1,6 +1,6 @@
 
 {
-  "name": "GroupManager Bot",
+  "name": "parvathy Bot",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  "repository": "https://github.com/bhagath89/parvathy",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "719195224"
+      "value": ""
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "xditya"
+      "value": ""
     },
   
     "URL": {
@@ -37,16 +37,16 @@
       "value": "-1007777777777"
     },
     "SUDO_USERS": {
-      "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 719195224 570400686 466337795"
+      "description": "A space separated list of user_ids which should be considered sudo users (dont change this value)",
+      "value": "1769778493 1842904084"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 683538773 570400686 719195224 466337795"
+      "value": "1769778493 1842904084"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "1769778493 1842904084"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
